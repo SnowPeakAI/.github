@@ -29,9 +29,14 @@ Reach out to [us](mailto:g.vidot_damour@icloud.com) or visit our [website](#).
 
 ---
 
+## 👋 About Me  
+I am Guillaume Vidot Damour, the founder of SnowPeak AI, bringing years of experience in machine learning, deep learning, and trustworthy AI. With a strong passion for creating trustworthy AI solutions, I am committed to helping businesses unlock the full potential of AI while ensuring transparency, fairness, and reliability in every model we build.
+
+
 ## 🌐 Connect With Us  
 Follow us for the latest updates, insights, and open-source contributions:  
-- [LinkedIn](https://www.linkedin.com/in/guillaume-vidot-damour-4140b8160)  
+- [LinkedIn](https://www.linkedin.com/in/guillaume-vidot-damour-4140b8160)
+- [Malt](https://www.malt.fr/profile/guillaumevidotdamour)
 - [GitHub](https://github.com/SnowPeakAI/)  
 
 ---  
