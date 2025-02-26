@@ -25,7 +25,7 @@ We bring our expertise in **trustworthy AI** to every project. We assess the nee
 ## 🤝 Let's Work Together  
 If you’re looking to explore new AI solutions or improve existing ones, we’re here to help!  
 We tailor our approach to your needs, bringing a focus on **robustness, fairness,** and **explainability** when it matters most.  
-Reach out to [us](mailto:g.vidot_damour@icloud.com) or visit our [website](#).  
+Reach out to [us](mailto:g.vidot_damour@icloud.com) or visit our [website](https://snowpeakai.github.io).  
 
 ---
 
